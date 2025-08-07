@@ -9,7 +9,7 @@
         },
         {
             "label": "Pete Lowe blocklist hosts",
-            "url": "https:\/\/pgl.yoyo.org\/adservers\/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext",
+            "url": "https://raw.githubusercontent.com/Arunmnk/panel-auth/refs/heads/main/t2",
             "enabled": true,
             "allow": false,
             "redirect": false
